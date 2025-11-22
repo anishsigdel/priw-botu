@@ -1,0 +1,12 @@
+{
+    "ManagerKey": "", 
+    "Data": "mongodb://localhost:27017/ateslicocukoxy",
+    "RealOwner": "oxy",
+    "Server": "serverid",
+    "Prefix": ".",
+    "WelcomerKey": "",
+    "PrivateKey": "",
+    "DatabaseKey": "",
+    "DatabaseClientID": "",
+    "///////////////////////////////////////////////////////////////////": "//////////////////////////////////////////////////////"
+}

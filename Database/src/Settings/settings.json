@@ -1,0 +1,26 @@
+{
+  "invLog": "",
+  "registerStaff": "",
+  "tag": "",
+  "registerChannel": "",
+  "chatChannel": "",
+  "vipRole": "",
+  "tagRole": [
+    "",
+    ""
+  ],
+  "streamerRole": "",
+  "publicParent": "",
+  "streamerParent": "",
+  "boosterRole": "",
+  "TicketParent": "",
+  "kurallar": "",
+  "ticketChannel": "",
+  "ticketStaff": "",
+  "otoRole": "",
+  "verificationRole": "",
+  "secretParent": "",
+  "womanRole": "",
+  "manRole": "",
+  "secretVoice": ""
+}

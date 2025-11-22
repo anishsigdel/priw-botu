@@ -1,0 +1,30 @@
+{
+  "Sorular": {
+    "sikayet": {
+      "sikayetinne": "Banane Kanka",
+      "sikayetiacikla": "Ya Yala Ufak Bi tavsiye"
+    },
+    "oneri": {
+      "onerinne": "Öneriniz Nedir?",
+      "oneriniacikla": "Oxy su botu yapabilir mi?"
+    },
+    "basvuru": {
+      "isim": {
+        "isminne": "Adın ne kanki",
+        "isim": "Oxy"
+      },
+      "yas": {
+        "yasinkac": "Yaşınız Kaç",
+        "yas": "19"
+      },
+      "sebep": {
+        "nedenytolmakıstıonaq": "Neden yetkili olmak istiyorsunuz?",
+        "yetkılıolmasebebım": "Sunucuya katkılı olurum."
+      },
+      "kurallar": {
+        "kurallarıokudugunukabuledıonmu": "Kuralları kabul ediyor musunuz?",
+        "kurallarıokudunmu": "he Kuran / yok sg"
+      }
+    }
+  }
+}
